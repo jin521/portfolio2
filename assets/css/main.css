@@ -209,14 +209,6 @@ a:after {
 
 
 
-.container{
-
-  padding-top: 50px;
-
-}
-
-
-
 
 
 /* White Wrap */
@@ -454,6 +446,19 @@ a:after {
 	font-weight: 700;
 	border-radius: 3px;
 }
+
+.btn-danger {
+    background: #5F3356;
+    border-color: transparent;
+    /*color: #ffffff;*/
+}
+
+.btn-danger:hover {
+    background: #8E4585;
+    border-color: transparent;
+    /*color: #ffffff;*/
+}
+
 
 .btn-theme:hover {
 	cursor: pointer;
