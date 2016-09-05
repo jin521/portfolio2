@@ -15,7 +15,7 @@
 
 $(function(){
         $(".screen-typed").typed({
-            strings: ["> Hello! ^1000 \n> I am Jin ^600 \n> I am a web developper based in Sydney ^1000\n> I am looking for job opportunities of junior web development \n> with the preference of front end development\n>// say something cleaver here...^1500 \n> I love to make /create things,\n> Web applications, paintings, photoes and ^1000cocktails... \n> Start scrolling to learn more about me "],
+            strings: ["> Hello! ^1000 \n> I am Jin ^600 \n> I am a web developer based in Sydney ^1000\n>  I am looking for junior web development opportunities  \n> with the preference of Front-end development\n>// say something clever here...^1500 \n> I love to make /create things,\n> Web applications, paintings, photos and ^1000cocktails... \n> Start scrolling to learn more about me "],
             typeSpeed: 20
         })
     });
